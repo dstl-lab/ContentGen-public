@@ -5,16 +5,16 @@
 
 ContentGen is an instructor-assistant JupyterLab extension for generating in-context lecture questions and supplementary teaching materials.
 
+This extension is composed of a Python package named `contentgen`
+for the server extension and a NPM package named `contentgen`
+for the frontend extension.
+
 > **Public Release Notice**
 >
 > This is the public release of the ContentGen JupyterLab extension.
 > Sensitive API keys, environment variables, and course-internal materials have been removed.
 >
 <!-- > Version: v1.0.0 (Public) -->
-
-This extension is composed of a Python package named `contentgen`
-for the server extension and a NPM package named `contentgen`
-for the frontend extension.
 
 ## Requirements
 
